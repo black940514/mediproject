@@ -4,6 +4,17 @@
 
 캐글 및 공개된 의료 데이터셋(1GB-30GB)를 활용하였고
 
+
+1. 반려동물 근골격계 질환 분류(X-ray)
+2. 흉부 X-ray 기반 성별 분류
+3. 위 용종 분류
+4. 치아 질환 분류(Object Detection)
+5. 피부암 분류 실습(Segmentation)
+6. 식물 질병 분류(Self-supervised Learning)
+
+
+
+
 ### 데이터 EDA
 1. 데이터 분포 확인
 2. 의료 데이터에 대한 이해(CT, X-ray 데이터, 복셀, DICOM)
