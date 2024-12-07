@@ -8,7 +8,7 @@
 1. 반려동물 근골격계 질환 분류(X-ray)
 2. 흉부 X-ray 기반 성별 분류
 3. 위 용종 분류
-4. 치아 질환 분류(Object Detection)
+### 4. 치아 질환 분류(Object Detection) - 포트폴리오 프로젝트입니다
 5. 피부암 분류 실습(Segmentation)
 6. 식물 질병 분류(Self-supervised Learning)
 
