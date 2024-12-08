@@ -44,3 +44,4 @@
 1. Softmax 대신 Tanh
 2. 어설픈 가중치 초기화는 세그멘테이션 훈련을 불안정하게 함
 3. lossfunction에 sgd 활용한것. Adam이 효과가 좋았음
+# huggingface
